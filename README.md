@@ -36,7 +36,7 @@ Wewnątrz funkcji, która została przekazana w listenerze, dodaj kod odpowiadaj
 
 Możesz posłużyć się właściwością innerHTML dostępną na elemencie List i dopisywać do niej ciąg znaków.
 
-list.innerHTML += '<li>item</li>'
+list.innerHTML += '<c><li>item</li></c>'
 W odpowiednim miejscu wstaw liczbę bieżącego elementu.
 
 Możesz w tym celu skorzystać z funkcji getElementsByTagName oraz właściwości length, aby dowiedzieć się, ile elementów ma lista ma w danym momencie.
