@@ -2,10 +2,10 @@
 
 Zadanie: Manipulowanie DOM po kliknięciu
 
-Dodaj do strony listę elementów (<ul>) oraz przycisk. Kliknięcie w niego będzie powodowało dodawanie elementów do listy.
+Dodaj do strony listę elementów (&lt;ul&gt;) oraz przycisk. Kliknięcie w niego będzie powodowało dodawanie elementów do listy.
 
 
-<c class="block">&lt;ul id=&quot;list&quot;&gt;&lt;li item 0&lt;/li&gt;/ul&gt;</c>
+<c class="block">&lt;ul id=&quot;list&quot;&gt;&lt;li&gt; item 0&lt;/li&gt;&lt;/ul&gt;</c>
 
 <c classs="block">&lt;button id=&quot;addElem&quot;&gt;
  dodaj/button&gt;</c>
