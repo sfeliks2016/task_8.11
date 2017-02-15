@@ -5,10 +5,13 @@ Zadanie: Manipulowanie DOM po kliknięciu
 Dodaj do strony listę elementów (&lt;ul&gt;) oraz przycisk. Kliknięcie w niego będzie powodowało dodawanie elementów do listy.
 
 
-<c class="block">&lt;ul id=&quot;list&quot;&gt;&lt;li&gt; item 0&lt;/li&gt;&lt;/ul&gt;</c>
+<c class="block">&lt;ul id=&quot;list&quot;&gt;
+    &lt;li&gt; item 0&lt;/li&gt;
+&lt;/ul&gt;</c>
 
 <c classs="block">&lt;button id=&quot;addElem&quot;&gt;
- dodaj/button&gt;</c>
+     dodaj
+ &lt;/button&gt;</c>
   
 Spraw, aby po kliknięciu buttona do listy został dodany elementy z napisem item oraz kolejnym numerem (tj. 0, 1, 2...)
 
